@@ -115,6 +115,3 @@ Response example:
 - Add input validation and feature descriptions in UI
 - Add password hashing for user authentication
 - Add Docker support for one-command deployment
-
-## License
-You can add your preferred license (for example, MIT) in a `LICENSE` file.
