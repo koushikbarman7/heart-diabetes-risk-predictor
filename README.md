@@ -37,7 +37,7 @@ heart-diabetes-risk-predictor/
 ## Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/heart-diabetes-risk-predictor.git
+git clone https://github.com/koushikbarman7/heart-diabetes-risk-predictor.git
 cd heart-diabetes-risk-predictor
 ```
 
